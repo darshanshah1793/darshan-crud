@@ -1,0 +1,17 @@
+{
+    "name": "darshan/crud",
+    "description": "CRUD functionality package",
+    "autoload": {
+        "psr-4": {
+            "Darshan\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Darshan Shah"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
